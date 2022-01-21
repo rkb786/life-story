@@ -3,3 +3,4 @@ I am learning software development.
 I think Youtube is the best platform for learning.
 I have completed HTML, CSS, BOOTSTRAP and JAVASCRIPT.
 Now I want get a job as a front-end engineer as of now.
+However currently I am working at SMC & I am relly very happy with my organization.
