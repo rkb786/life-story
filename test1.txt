@@ -1,4 +1,5 @@
 Hi everyone, this is Rakib from Manikgonj.
 I am learning software development.
 I think Youtube is the best platform for learning.
-I have completed HTML, CSS, BOOTSTRAP and JAVASCRIPT
+I have completed HTML, CSS, BOOTSTRAP and JAVASCRIPT.
+Now I want get a job as a front-end engineer as of now.
